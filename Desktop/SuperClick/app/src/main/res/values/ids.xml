@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id">main</item>
+    <item name="login" type="id">login</item>
+    <item name="signup" type="id">signup</item>
+</resources>

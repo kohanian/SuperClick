@@ -1,0 +1,46 @@
+body{
+	background: #C0C0C0;
+}
+#nav{
+	position: absolute;
+	background-color: #272822;
+	height: 3em;
+}
+#header{
+	background-color: rgba(255,255,255,0.95);
+	position: fixed;
+	z-index: 1000;
+	left: 2em;
+	width: auto;
+	border-radius: 1em;
+}
+#newPost{
+	background-color: rgba(255,255,255,0.95);
+	float: below;
+	position: fixed;
+	z-index: 1;
+	left: 3em;
+	border-color: black;
+	border: 2px;
+	width: 15%;
+	height: auto;
+	padding: 1em	;
+	border-radius: 2em;
+	margin-top: 3em;
+}
+.answer{
+	width: 100%;
+}
+.input{
+	height: auto;
+	width: 100%;
+	max-width: 100%;
+}
+.results{
+	background-color: #408080;
+	height: auto;
+	width: auto;
+	margin: 15em;
+	position: absolute;
+	padding: 2em;
+}
